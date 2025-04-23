@@ -1,0 +1,7 @@
+[2025-04-22T21:52:49.553641100] Ali: Hi
+[2025-04-22T21:53:07.277788700] Ahmed: Hello! How are you feeling today?
+[2025-04-22T21:53:15.543587100] Ali: Not so well.
+[2025-04-22T21:53:26.597444] Ahmed: Why what happened?
+[2025-04-22T21:53:37.389226400] Ali: I have fever.
+[2025-04-22T21:54:04.217179600] Ahmed: Ok don't worry i will give you some medicines.
+[2025-04-22T21:54:07.292041500] Ali: Ok.
